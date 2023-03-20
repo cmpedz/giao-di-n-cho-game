@@ -1,1 +1,1 @@
-# giao-di-n-cho-game
+- ở phần này em sẽ code riêng giao diện ra trước để tiện cho việc sáng tạo và chỉnh sửa rồi từ đó mới add vào bigproject của mình
